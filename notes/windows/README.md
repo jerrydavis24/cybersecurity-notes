@@ -1,3 +1,3 @@
 # Windows
 
-This folder contains my Windowss notes and labs.
+This folder contains my Windowss notes.
