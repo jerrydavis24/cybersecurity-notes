@@ -1,3 +1,3 @@
 # Web-Security
 
-This folder contains my Web-Security notes and labs.
+This folder contains my Web-Security notes.
