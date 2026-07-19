@@ -1,3 +1,3 @@
 # Networking 
 
-This folder contains my Linux notes and labs.
+This folder contains my Linux notes.
